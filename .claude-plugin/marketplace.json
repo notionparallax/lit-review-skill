@@ -1,0 +1,11 @@
+{
+  "name": "lit-review",
+  "owner": { "name": "Ben Doherty" },
+  "plugins": [
+    {
+      "name": "lit-review",
+      "source": "./",
+      "description": "Guides you from the germ of an idea to a resolved, referenced literature review."
+    }
+  ]
+}
